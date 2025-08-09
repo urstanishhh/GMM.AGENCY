@@ -1,0 +1,6 @@
+MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/gmm-agency
+EMAIL_USER=your@gmail.com
+EMAIL_PASS=your-app-password
+ADMIN_EMAIL=admin@example.com
+BASE_URL=https://yourdomain.com
+CALENDLY_LINK=https://calendly.com/your-link
